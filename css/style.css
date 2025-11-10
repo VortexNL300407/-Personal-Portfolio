@@ -1,0 +1,27 @@
+body{
+    background-color: #EFECE3;
+}
+#selfIntroductionDiv{
+    background-color: #8FABD4;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.intro>h1{
+    font-family: "Rubik Mono One", monospace;
+    font-weight: 400;
+    font-style: normal;
+}
+#selfIntroductionDiv > div{
+    background-color: white;
+    display: inline-block;
+}
+.intro >h1#name{
+    font-family: "Rubik Glitch", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+#funnyFace{
+    width:150px;
+    
+}
